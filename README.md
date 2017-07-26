@@ -5,13 +5,13 @@ Personal notes about the *grid* package in R based on the books *R Graphics* by 
 ##  Organization of the Files
 
 The project has the following structure:
-  * **_RESOURCES**: The contents of this folder are
+  * **_RESOURCES**: The contents of this folder are the following:
     * **_VIGNETTES**: Contains all the vignettes of the grid package.
   * **_TEXTS**: Consists of all my notes.
 
 ## R session
 
-The session in which I run the code was the following:
+The session in which I have run the code was the following:
 
 ```r
 > sessionInfo()
